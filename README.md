@@ -23,5 +23,6 @@ const messages = {
 ```
 
 ## License
+Author: txshon (txs) Andy Tseng 曾郁翔
 
 This translation is licensed under the MIT License.
