@@ -17,6 +17,10 @@ module.exports = {
             remove_filter: '刪除過濾',
             back: '上一頁',
             bulk_actions: '挑選%{smart_count}個',
+            confirm: '確認',
+            clone: '複制',
+            export: '導出',
+            search: '搜尋'
         },
         boolean: {
             true: '是',
@@ -30,6 +34,7 @@ module.exports = {
             dashboard: '看板',
             not_found: '沒找到',
             loading: '載入中',
+            error: '出現錯誤',
         },
         input: {
             file: {
@@ -75,6 +80,7 @@ module.exports = {
             page_out_from_end: '超過最後一頁',
             page_out_from_begin: '超出第一頁',
             page_range_info: '%{offsetBegin}-%{offsetEnd} 共 %{total}',
+            page_rows_per_page: '每頁行數:',
             next: '下一頁',
             prev: '上一頁',
         },
@@ -84,6 +90,7 @@ module.exports = {
             sign_in: '登入',
             sign_in_error: '驗證失敗, 請重試',
             logout: '登出',
+            user_menu: '設置',
         },
         notification: {
             updated: '已更新資料 |||| %{smart_count} 筆資料已更新',
@@ -92,6 +99,7 @@ module.exports = {
             bad_item: '錯誤資料',
             item_doesnt_exist: '資料不存在',
             http_error: '伺服器連線錯誤',
+            data_provider_error:'dataProvider錯誤',
             canceled: '取消操作',
         },
         validation: {
